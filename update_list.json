@@ -1,0 +1,16 @@
+[
+    {
+        "fileName": "CodeJoeVPN.exe",
+        "fileHash": "A1B2C3D4E5F6",
+        "downloadUrl": "https://raw.githubusercontent.com/jiangyu1337/CloudDownload/main/CodeJoeVPN.exe",
+        "fileSize": 1048576,
+        "fileType": "exe"
+    },
+    {
+        "fileName": "CloudDownload.dll",
+        "fileHash": "F6E5D4C3B2A1",
+        "downloadUrl": "https://raw.githubusercontent.com/jiangyu1337/CloudDownload/main/CloudDownload.dll",
+        "fileSize": 524288,
+        "fileType": "dll"
+    }
+]
